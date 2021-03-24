@@ -1,3 +1,7 @@
+# 介绍文档
+https://my.oschina.net/u/4396547/blog/3289119
+
+
 # Android-DualBle
 库的使用方法，demo里面，有具体的栗子，仔细阅读下，很多注释的，应该容易理解
 
